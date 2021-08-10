@@ -1,5 +1,10 @@
 Example Replace with your local information. Some commands are optional.
-Use WinSCP to download the files.
+Use PuTTY or Intergated CLI for the commands
+Use WinSCP to download the files to your device.
+
+Ubiquiti Guide for OpenVPN Setup:
+https://help.ui.com/hc/en-us/articles/115015971688-EdgeRouter-OpenVPN-Server
+
 ==================================================
 OpenVPN Certificates
 ==================================================
