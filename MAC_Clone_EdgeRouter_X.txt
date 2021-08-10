@@ -1,0 +1,4 @@
+configure
+set interfaces ethernet eth0 mac 00:00:00:00:00:01
+commit
+save;
